@@ -15,4 +15,4 @@ Mainly focused on three categories - 1.) Demographics, 2.) Phone Services 4.) Co
 I am majorly trying to focus on the insights that can be driven out of the churning customers, the type of services they use & payment related other details.
 
 
-<img align="center" src="img/Churn_Insights_Dashboard.PNG" height=400>
+<img align="center" src="Churn_Insights_Dashboard.PNG" height=400>

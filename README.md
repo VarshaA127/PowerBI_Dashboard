@@ -14,5 +14,7 @@ Mainly focused on three categories - 1.) Demographics, 2.) Phone Services 4.) Co
 
 I am majorly trying to focus on the insights that can be driven out of the churning customers, the type of services they use & payment related other details.
 
+<iframe title="Telco_churn - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2IyNDBjYzUtZjdmMS00ZmVmLWFhNTgtOGRjOTJlN2M0NmU5IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
 
 <img align="center" src="Churn_Insights_Dashboard.PNG" height=400>

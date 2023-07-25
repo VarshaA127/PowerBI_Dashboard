@@ -12,9 +12,7 @@ I have got a lot of insights & information on the present Customer.
 Mainly focused on three categories - 1.) Demographics, 2.) Phone Services 4.) Contracts
 
 
-I am majorly trying to focus on the insights that can be driven out of the churning customers, the type of services they use & payment related other details.
-
-<img align="center" src="https://app.powerbi.com/view?r=eyJrIjoiY2IyNDBjYzUtZjdmMS00ZmVmLWFhNTgtOGRjOTJlN2M0NmU5IiwidCI6ImI2NDE3Y2QwLTFmNzMtNDQ3MS05YTM5LTIwOTUzODIyYTM0YSIsImMiOjN9&embedImagePlaceholder=true" height=500>
+I am majorly trying to focus on the insights that can be driven out of the churning customers, the type of services they use & payment-related other details.
 
 
 <img align="center" src="Churn_Insights_Dashboard.PNG" height=400>
